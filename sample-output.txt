@@ -1,0 +1,28 @@
+=================================================
+               CURRENCY CONVERTER
+=================================================
+Note: The exchange rates below are demo rates,
+not live market rates. Results are for practice.
+
+Supported currencies: USD, INR, EUR, GBP, JPY, AUD
+Demo rates (units per 1 USD):
+  1 USD = 1 USD
+  1 USD = 83 INR
+  1 USD = 0.92 EUR
+  1 USD = 0.79 GBP
+  1 USD = 150 JPY
+  1 USD = 1.52 AUD
+
+Enter source currency code: USD
+Enter target currency code: INR
+Enter amount to convert: 100
+
+=============== CONVERSION RESULT ===============
+From           : USD 100.00
+To             : INR 8300.00
+Exchange route : USD -> USD -> INR
+=================================================
+
+Would you like to convert another amount? (Y/N): N
+
+Thank you for using Currency Converter!
